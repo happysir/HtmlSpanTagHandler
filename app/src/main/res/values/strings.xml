@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HtmlStyleSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="html_value1"><Data><![CDATA[<p>演示示例:\n<p style="text-align:center">\n\t<span>第一段</span>\n\t<span>第二段</span>\n</p>]]></Data></string>
+    <string name="html_value2"><Data><![CDATA[span样式演示示例:\n<span style="font-size:15px;color:#000000;background:#000000;font-weight: normal;text-decoration: line-through;text-decoration: underline;>第一行</span><span>还是第一行</span>]]></Data></string>
+    <string name="html_value3"><Data><![CDATA[空格演示示例:\n<span>第一行</span>&nbsp;&nbsp;<span>还是第一行</span>]]></Data></string>
+    <string name="html_value4"><Data><![CDATA[<br>演示示例:\n<span>第一行</span><br><span>第二行</span>]]></Data></string>
+    <string name="html_value5"><Data><![CDATA[异常未知标题演示示例:\n<abc style="text-align:center">\n\t<span>第一段</span>\n\t<span>第二段</span>\n</abc>]]></Data></string>
+
+    <string name="html_sample_value1"><Data><![CDATA[<p style="text-align:center"><span>第一段</span><span>第二段</span></p>]]></Data></string>
+    <string name="html_sample_value2"><Data><![CDATA[<span style="font-size:15px;color:#ff0000;background:#00ff00;font-weight:normal;text-decoration:line-through;text-decoration:underline;>第一行</span><span>还是第一行</span>]]></Data></string>
+    <string name="html_sample_value3"><Data><![CDATA[<span>第一行</span>&nbsp;&nbsp;<span>还是第一行</span>]]></Data></string>
+    <string name="html_sample_value4"><Data><![CDATA[<span>第一行</span><br><span>第二行</span>]]></Data></string>
+    <string name="html_sample_value5"><Data><![CDATA[<abc style="text-align:center"><span>第一段</span><span>第二段</span></abc>]]></Data></string>
+</resources>
